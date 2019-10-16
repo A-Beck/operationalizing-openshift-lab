@@ -1,2 +1,2 @@
-[seed-hosts]
+[seed_hosts]
 localhost ansible_connection=local
